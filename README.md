@@ -1,5 +1,5 @@
 # predict_house_price_with_linear_regression
-This is a small project that predicts the house price with linear regression. The project is taught by Flare Zhao in his course, "Python 3 Intro to Artificial Intelligence".
+This is a small project that builds a linear regerssion which predicts the house price. The project is taught by Flare Zhao in his course, "Python 3 Intro to Artificial Intelligence".
 
 There are in total 5 factors which might affect the housing price: size, income, number of rooms, house age, area of population. Each of these factors are shown visually with the price.
 
